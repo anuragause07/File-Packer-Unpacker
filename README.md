@@ -196,5 +196,4 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use, 
 
 ## Author
 
-**Darshan Thorbole**
-[GitHub](https://github.com/thorboledarshan) · [Repository](https://github.com/thorboledarshan/File-Packer-Unpacker)
+**Anurag Ause**
